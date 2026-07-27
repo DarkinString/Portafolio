@@ -6,7 +6,7 @@ const About = () => {
     
     const cardItems = [
     {
-        title: "Frontend",
+        title: "Full Stack Jr",
         desc: "React, Tailwind, HTML5, CSS, JavaScript, Java, SqlServer"
     },
     {
